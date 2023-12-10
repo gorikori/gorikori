@@ -11,4 +11,3 @@ Youtube: @gorikori_ (GORIKORI)
 Soundcloud: GORIKORI
 Twitter / X: @kori_cipstik (GORIKORI)
 Website: [CARRD](https://gorikori.carrd.co)
-thankyou.png
