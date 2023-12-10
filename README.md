@@ -6,7 +6,7 @@ Name: Kyren, GORI, KORI, GORIKORI, Yakomi
 Pronouns: He/They
 Favorite color: `#ebcc78` (Bright/Pastel Yellow)
 Favorite Food: Lasagna
-- Socials -
+## SOCIALS
 Youtube: @gorikori_ (GORIKORI)
 Soundcloud: GORIKORI
 Twitter / X: @kori_cipstik (GORIKORI)
