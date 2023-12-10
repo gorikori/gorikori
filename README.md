@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**gorikori/gorikori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# LOADING [gorikori/gorikori]
+# Progress: 100% ███████████
+**Hello everybiody! I'm GORIKORI (who also uses the @GORIKORI2 account), and I mainly work on vocal synthesis related works.**
+***OTHER INFO***
+Name: Kyren, GORI, KORI, GORIKORI, Yakomi
+Pronouns: He/They
+Favorite color: `#ebcc78` (Bright/Pastel Yellow)
+Favorite Food: Lasagna
+- Socials -
+Youtube: @gorikori_ (GORIKORI)
+Soundcloud: GORIKORI
+Twitter / X: @kori_cipstik (GORIKORI)
+Website: [CARRD](https://gorikori.carrd.co)
+images\thankyou.png
